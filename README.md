@@ -1,2 +1,2 @@
 # Test
-Das ist eine Testdatei. 
+Das ist eine Testdatei!
